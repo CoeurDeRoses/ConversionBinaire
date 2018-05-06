@@ -1,0 +1,12 @@
+A:\C# Training\ConversionBinaire\ConversionBinaire\bin\Debug\ConversionBinaire.exe.config
+A:\C# Training\ConversionBinaire\ConversionBinaire\bin\Debug\ConversionBinaire.exe
+A:\C# Training\ConversionBinaire\ConversionBinaire\bin\Debug\ConversionBinaire.pdb
+A:\C# Training\ConversionBinaire\ConversionBinaire\obj\Debug\ConversionBinaire.csprojResolveAssemblyReference.cache
+A:\C# Training\ConversionBinaire\ConversionBinaire\obj\Debug\ConversionBinaire.exe
+A:\C# Training\ConversionBinaire\ConversionBinaire\obj\Debug\ConversionBinaire.pdb
+A:\C# Training\ConversionBinaire\bin\Debug\ConversionBinaire.exe.config
+A:\C# Training\ConversionBinaire\bin\Debug\ConversionBinaire.exe
+A:\C# Training\ConversionBinaire\bin\Debug\ConversionBinaire.pdb
+A:\C# Training\ConversionBinaire\obj\Debug\ConversionBinaire.csprojResolveAssemblyReference.cache
+A:\C# Training\ConversionBinaire\obj\Debug\ConversionBinaire.exe
+A:\C# Training\ConversionBinaire\obj\Debug\ConversionBinaire.pdb
