@@ -15,6 +15,9 @@ namespace ConversionBinaire
 		public static void Main(string[] args)
 		{
 			
+			char recommencer = 'o';
+			do
+			{
 			string chaineBinaire ="";
 			
 			//La variable chaine binaire servira à enregistrer les bit, une fois réalisée a 100%
@@ -132,8 +135,10 @@ namespace ConversionBinaire
 			
 			Console.WriteLine(sauvegarde+" vaut "+chaineBinaire+" en binaire");
 			
-			Console.Write("Press any key to continue . . . ");
-			Console.ReadKey(true);
+			Console.WriteLine("Recommencer ? 'o' pour Oui 'n' pour Non.");
+			recommencer=Convert.ToChar(Console.ReadLine());
+			
+			}while(recommencer=='o');
 		}
 		
 	}
