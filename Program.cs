@@ -38,6 +38,14 @@ namespace ConversionBinaire
 			int sauvegarde = nombreAconvertir; // on sauvergarde la valeur
 			do{
 				
+				if(nombreAconvertir==0)// si le nombre binaire est 0
+				{
+					
+					chaineBinaire+="0";
+					break;
+					
+				}
+				
 				
 				
 				if(nombreAconvertir==1)// si le nombre binaire est 1
